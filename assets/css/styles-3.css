@@ -896,6 +896,9 @@ label {
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
 }
+.modal .figure-container.glass-garden img {
+  
+}
 .modal .facilities-list {
   margin-bottom: 30px;
 }
